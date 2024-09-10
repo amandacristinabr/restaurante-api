@@ -1,4 +1,4 @@
-package io.github.amandacristinabr.restaurantes;
+package br.fiap.restaurantes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
