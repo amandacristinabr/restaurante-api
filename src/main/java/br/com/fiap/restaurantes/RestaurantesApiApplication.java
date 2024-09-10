@@ -1,4 +1,4 @@
-package br.fiap.restaurantes;
+package br.com.fiap.restaurantes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

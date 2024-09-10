@@ -1,4 +1,4 @@
-package br.fiap.restaurantes;
+package br.com.fiap.restaurantes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
